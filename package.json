@@ -1,0 +1,12 @@
+{
+  "name": "@arcisprotocol/monitor",
+  "version": "0.1.0",
+  "description": "Arcis Protocol monitoring — on-chain event watching, health checks, and Telegram alerts",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "build": "tsup src/index.ts --format esm --clean"
+  },
+  "dependencies": { "viem": "^2.21.0" },
+  "devDependencies": { "tsx": "^4.19.0", "tsup": "^8.3.0", "typescript": "^5.6.0", "@types/node": "^22.0.0" }
+}
