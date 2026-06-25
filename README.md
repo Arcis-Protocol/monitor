@@ -1,6 +1,6 @@
 # Arcis Monitor
 
-Passive on-chain monitoring for Arcis Protocol.
+Passive on-chain monitoring for Arcis Protocol. Base mainnet.
 
 > **Note:** CUSTOS supersedes this module. CUSTOS provides active monitoring with keeper actions (harvest, liquidate, serviceDebt) plus social engagement. This module remains for lightweight read-only monitoring.
 
